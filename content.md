@@ -3,8 +3,8 @@
 ## Contact
 
 - Name: Bhavesh Singhal
-- Email: bhaveshsinghal2906@gmail.com
-- Phone: +1 (984) 336-8891
+- Email: 
+- Phone: 
 - LinkedIn: https://www.linkedin.com/in/bhaveshsinghal1144/
 - Portfolio: https://www.bhaveshsinghal.com
 - Resume: https://drive.google.com/file/d/1LSov2Q1m4jwUXWhYORZ3Y7c3ybZtICnp/view?usp=sharing
