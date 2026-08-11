@@ -1,0 +1,7 @@
+.idea/
+*.iml
+.playwright-mcp/
+run-artifacts/
+.idea/
+*.iml
+run-artifacts/
