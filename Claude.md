@@ -33,5 +33,6 @@ aipm.erikrogne.com (Everpure, agentic UX PM role).
 - Show me the completed form and wait for my explicit approval before ticking the
   attestation checkbox or submitting.
 
+# Protocol
 - Hard limit: 40 browser actions total. If you exceed it, stop and tell me.
 - If the same action fails twice, stop and tell me. Do not retry a third time.

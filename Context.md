@@ -79,7 +79,7 @@ switching context.
 Built to comply with the published agent protocol at aipm.erikrogne.com: reads the
 instructions first, takes the sanctioned continuation path, no user-agent or webdriver
 spoofing, no direct API calls.
-Repo: [ADD URL ONCE PUBLIC]
+Repo: https://github.com/Bhavesh114/aipm-application-agent
 
 ## My point of view on the problem
 At Lilly I wrote the incident playbooks for an ML platform serving 500-plus researchers, and every one of them assumed a person would read an alert, form a hypothesis, and choose what to do. If an agent is doing that reading now, the actions still happen but nobody's reasoning gets written down anywhere, and that's the part I'd miss. So everything I've built since keeps the reasoning around, whether that's precision and recall gates on TrialMatch AI, confidence scoring with human escalation at Sarosoft, or a sheet of rejected job postings in my n8n pipeline that exists only so I can go find out what the filter got wrong. My guess is that the trust question for autonomous storage work is mostly an inspection question, which is whether a person can find out why something happened hours later without reconstructing it from scratch. I don't know storage yet, so I could be wrong about where the hard part is.
